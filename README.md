@@ -1,4 +1,7 @@
 # weird-substrate-32
+```
+yarn ts-node index.ts
+```
 
 ```
 {
